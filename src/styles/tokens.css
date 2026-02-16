@@ -1,0 +1,18 @@
+:root {
+    --bg: 248 250 252;
+    /* slate-50 */
+    --panel: 255 255 255;
+    /* white */
+    --muted: 100 116 139;
+    /* slate-500 */
+    --text: 15 23 42;
+    /* slate-900 */
+    --border: 226 232 240;
+    /* slate-200 */
+    --brand: 79 70 229;
+    /* indigo-600 */
+    --brand-2: 99 102 241;
+    /* indigo-500 */
+    --danger: 225 29 72;
+    /* rose-600 */
+}
